@@ -2,8 +2,7 @@
 <br>
 
 
-![ezgif com-video-to-gif](https://github.com/antonioalia7/android-native-sharer-webview/assets/39644570/53a99cf1-1427-46f2-b064-fc1faadc984a)
-
+![ezgif com-resize](https://github.com/antonioalia7/android-native-sharer-webview/assets/39644570/ae42aee5-ed43-48eb-abe2-0a245fef5cd2)
 
 
 ## 🖥️ Server Side
